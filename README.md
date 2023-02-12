@@ -1,6 +1,6 @@
 ### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats-theta-two-29.vercel.app/api?username=Chibikuri)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats-theta-two-29.vercel.app/api/top-langs/?username=Chibikuri&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats-theta-two-29.vercel.app/api?username=Chibikuri)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-theta-two-29.vercel.app/api/top-langs/?username=Chibikuri&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--
 **Chibikuri/Chibikuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
